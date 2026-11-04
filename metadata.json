@@ -1,0 +1,8 @@
+{
+  "name": "Remix سامانه استقلال هدایت‌شده کافی‌نت | نرخ‌نامه ۱۴۰۵",
+  "description": "پلتفرم عملیاتی هفت‌گانه استقلال هدایت‌شده پرسنل کافی‌نت بر پایه نرخ‌نامه مصوب ۱۴۰۵ با پایگاه دانش، شبیه‌ساز، دستیار هوشمند و ارزیابی",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
